@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Output
+x64/
+Debug/
+Release/
+
+# Executables
+*.exe
+
+# Logs
+*.log
+
+# Temporary Files
+*.obj
+*.pdb
+*.ilk
