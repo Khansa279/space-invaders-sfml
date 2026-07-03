@@ -112,11 +112,6 @@ Enemy formations change with each level, introducing stronger opponents and uniq
 
 ---
 
-## Pause Screen
-
-![Pause](screenshots/pause.png)
-
----
 
 ## High Scores
 
